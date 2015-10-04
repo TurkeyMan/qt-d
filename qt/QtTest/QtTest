@@ -1,0 +1,14 @@
+#ifndef QT_QTTEST_MODULE_H
+#define QT_QTTEST_MODULE_H
+#include <QtTest/QtTestDepends>
+import qbenchmark;
+import qbenchmarkmetric;
+import qsignalspy;
+import qtest;
+import qtestassert;
+import qtestcase;
+import qtestdata;
+import qtesteventloop;
+import qtestsystem;
+import qttestversion;
+#endif

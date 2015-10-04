@@ -1,0 +1,11 @@
+#ifndef QT_QTPLATFORMHEADERS_MODULE_H
+#define QT_QTPLATFORMHEADERS_MODULE_H
+#include <QtPlatformHeaders/QtPlatformHeadersDepends>
+import qeglfsfunctions;
+import qcocoanativecontext;
+import qeglnativecontext;
+import qglxnativecontext;
+import qwglnativecontext;
+import qxcbwindowfunctions;
+import qtplatformheadersversion;
+#endif

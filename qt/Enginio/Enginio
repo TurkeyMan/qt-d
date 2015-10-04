@@ -1,0 +1,14 @@
+#ifndef QT_ENGINIO_MODULE_H
+#define QT_ENGINIO_MODULE_H
+#include <Enginio/EnginioDepends>
+import enginio;
+import enginiobasemodel;
+import enginioclient;
+import enginioclientconnection;
+import enginioidentity;
+import enginiomodel;
+import enginiooauth2authentication;
+import enginioreply;
+import enginioreplystate;
+import enginioversion;
+#endif

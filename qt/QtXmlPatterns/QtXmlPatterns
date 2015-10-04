@@ -1,0 +1,20 @@
+#ifndef QT_QTXMLPATTERNS_MODULE_H
+#define QT_QTXMLPATTERNS_MODULE_H
+#include <QtXmlPatterns/QtXmlPatternsDepends>
+import qabstractmessagehandler;
+import qabstracturiresolver;
+import qabstractxmlnodemodel;
+import qabstractxmlreceiver;
+import qsimplexmlnodemodel;
+import qsourcelocation;
+import qtxmlpatternsglobal;
+import qxmlformatter;
+import qxmlname;
+import qxmlnamepool;
+import qxmlquery;
+import qxmlresultitems;
+import qxmlschema;
+import qxmlschemavalidator;
+import qxmlserializer;
+import qtxmlpatternsversion;
+#endif

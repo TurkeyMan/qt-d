@@ -1,0 +1,13 @@
+#ifndef QT_QTOPENGL_MODULE_H
+#define QT_QTOPENGL_MODULE_H
+public import QtOpenGL.QtOpenGLDepends;
+public import qgl;
+public import qglbuffer;
+public import qglcolormap;
+public import qglframebufferobject;
+public import qglfunctions;
+public import qglpixelbuffer;
+public import qglshaderprogram;
+public import qtopenglglobal;
+public import qtopenglversion;
+#endif

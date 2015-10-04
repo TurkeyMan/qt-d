@@ -1,0 +1,16 @@
+#ifndef QT_QTWINEXTRAS_MODULE_H
+#define QT_QTWINEXTRAS_MODULE_H
+#include <QtWinExtras/QtWinExtrasDepends>
+import qwinevent;
+import qwinextrasglobal;
+import qwinfunctions;
+import qwinjumplist;
+import qwinjumplistcategory;
+import qwinjumplistitem;
+import qwinmime;
+import qwintaskbarbutton;
+import qwintaskbarprogress;
+import qwinthumbnailtoolbar;
+import qwinthumbnailtoolbutton;
+import qtwinextrasversion;
+#endif

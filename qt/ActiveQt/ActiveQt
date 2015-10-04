@@ -1,0 +1,15 @@
+#ifndef QT_ACTIVEQT_MODULE_H
+#define QT_ACTIVEQT_MODULE_H
+#include <ActiveQt/ActiveQtDepends>
+import qaxbase;
+import qaxobject;
+import qaxscript;
+import qaxselect;
+import qaxwidget;
+import qaxaggregated;
+import qaxbindable;
+import qaxfactory;
+import qaxtypefunctions;
+import qaxtypes;
+import activeqtversion;
+#endif

@@ -1,0 +1,24 @@
+#ifndef QT_QTBLUETOOTH_MODULE_H
+#define QT_QTBLUETOOTH_MODULE_H
+#include <QtBluetooth/QtBluetoothDepends>
+import qbluetooth;
+import qbluetoothaddress;
+import qbluetoothdevicediscoveryagent;
+import qbluetoothdeviceinfo;
+import qbluetoothglobal;
+import qbluetoothhostinfo;
+import qbluetoothlocaldevice;
+import qbluetoothserver;
+import qbluetoothservicediscoveryagent;
+import qbluetoothserviceinfo;
+import qbluetoothsocket;
+import qbluetoothtransfermanager;
+import qbluetoothtransferreply;
+import qbluetoothtransferrequest;
+import qbluetoothuuid;
+import qlowenergycharacteristic;
+import qlowenergycontroller;
+import qlowenergydescriptor;
+import qlowenergyservice;
+import qtbluetoothversion;
+#endif

@@ -1,0 +1,19 @@
+#ifndef QT_QTSQL_MODULE_H
+#define QT_QTSQL_MODULE_H
+#include <QtSql/QtSqlDepends>
+import qsql;
+import qsqldatabase;
+import qsqldriver;
+import qsqldriverplugin;
+import qsqlerror;
+import qsqlfield;
+import qsqlindex;
+import qsqlquery;
+import qsqlrecord;
+import qsqlresult;
+import qsqlquerymodel;
+import qsqlrelationaldelegate;
+import qsqlrelationaltablemodel;
+import qsqltablemodel;
+import qtsqlversion;
+#endif

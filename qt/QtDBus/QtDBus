@@ -1,0 +1,24 @@
+#ifndef QT_QTDBUS_MODULE_H
+#define QT_QTDBUS_MODULE_H
+#include <QtDBus/QtDBusDepends>
+import qdbusabstractadaptor;
+import qdbusabstractinterface;
+import qdbusargument;
+import qdbusconnection;
+import qdbusconnectioninterface;
+import qdbuscontext;
+import qdbuserror;
+import qdbusextratypes;
+import qdbusinterface;
+import qdbusmacros;
+import qdbusmessage;
+import qdbusmetatype;
+import qdbuspendingcall;
+import qdbuspendingreply;
+import qdbusreply;
+import qdbusserver;
+import qdbusservicewatcher;
+import qdbusunixfiledescriptor;
+import qdbusvirtualobject;
+import qtdbusversion;
+#endif

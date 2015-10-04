@@ -1,0 +1,12 @@
+#ifndef QT_QTHELP_MODULE_H
+#define QT_QTHELP_MODULE_H
+#include <QtHelp/QtHelpDepends>
+import qhelpcontentwidget;
+import qhelpengine;
+import qhelpenginecore;
+import qhelpindexwidget;
+import qhelpsearchengine;
+import qhelpsearchquerywidget;
+import qhelpsearchresultwidget;
+import qthelpversion;
+#endif

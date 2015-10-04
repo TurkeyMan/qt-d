@@ -1,0 +1,10 @@
+#ifndef QT_QTWEBKITWIDGETS_MODULE_H
+#define QT_QTWEBKITWIDGETS_MODULE_H
+#include <QtWebKitWidgets/QtWebKitWidgetsDepends>
+import qgraphicswebview;
+import qwebframe;
+import qwebinspector;
+import qwebpage;
+import qwebview;
+import qtwebkitwidgetsversion;
+#endif

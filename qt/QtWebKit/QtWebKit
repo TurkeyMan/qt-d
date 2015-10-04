@@ -1,0 +1,14 @@
+#ifndef QT_QTWEBKIT_MODULE_H
+#define QT_QTWEBKIT_MODULE_H
+#include <QtWebKit/QtWebKitDepends>
+import qwebdatabase;
+import qwebelement;
+import qwebhistory;
+import qwebhistoryinterface;
+import qwebkitglobal;
+import qwebkitplatformplugin;
+import qwebpluginfactory;
+import qwebsecurityorigin;
+import qwebsettings;
+import qtwebkitversion;
+#endif

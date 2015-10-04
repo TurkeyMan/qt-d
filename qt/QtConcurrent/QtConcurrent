@@ -1,0 +1,19 @@
+#ifndef QT_QTCONCURRENT_MODULE_H
+#define QT_QTCONCURRENT_MODULE_H
+#include <QtConcurrent/QtConcurrentDepends>
+import qtconcurrentcompilertest;
+import qtconcurrentexception;
+import qtconcurrentfilter;
+import qtconcurrentfilterkernel;
+import qtconcurrentfunctionwrappers;
+import qtconcurrentiteratekernel;
+import qtconcurrentmap;
+import qtconcurrentmapkernel;
+import qtconcurrentmedian;
+import qtconcurrentreducekernel;
+import qtconcurrentrun;
+import qtconcurrentrunbase;
+import qtconcurrentstoredfunctioncall;
+import qtconcurrentthreadengine;
+import qtconcurrentversion;
+#endif

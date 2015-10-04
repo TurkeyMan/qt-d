@@ -1,0 +1,29 @@
+#ifndef QT_QTQUICK_MODULE_H
+#define QT_QTQUICK_MODULE_H
+public import QtQuick.QtQuickDepends;
+public import qtquickglobal;
+public import designersupport;
+public import qquickframebufferobject;
+public import qquickitem;
+public import qquickitemgrabresult;
+public import qquickpainteditem;
+public import qquickrendercontrol;
+public import qquicktextdocument;
+public import qquickview;
+public import qquickwindow;
+public import qquickimageprovider;
+public import qsgabstractrenderer;
+public import qsggeometry;
+public import qsgmaterial;
+public import qsgnode;
+public import qsgengine;
+public import qsgflatcolormaterial;
+public import qsgsimplematerial;
+public import qsgsimplerectnode;
+public import qsgsimpletexturenode;
+public import qsgtexture;
+public import qsgtexturematerial;
+public import qsgtextureprovider;
+public import qsgvertexcolormaterial;
+public import qtquickversion;
+#endif

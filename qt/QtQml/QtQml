@@ -1,0 +1,32 @@
+#ifndef QT_QTQML_MODULE_H
+#define QT_QTQML_MODULE_H
+public import QtQml.QtQmlDepends;
+public import qtqmlglobal;
+public import qqmldebug;
+public import qjsengine;
+public import qjsvalue;
+public import qjsvalueiterator;
+public import qqml;
+public import qqmlabstracturlinterceptor;
+public import qqmlapplicationengine;
+public import qqmlcomponent;
+public import qqmlcontext;
+public import qqmlengine;
+public import qqmlerror;
+public import qqmlexpression;
+public import qqmlextensioninterface;
+public import qqmlextensionplugin;
+public import qqmlfile;
+public import qqmlfileselector;
+public import qqmlincubator;
+public import qqmlinfo;
+public import qqmllist;
+public import qqmlnetworkaccessmanagerfactory;
+public import qqmlparserstatus;
+public import qqmlprivate;
+public import qqmlproperty;
+public import qqmlpropertyvaluesource;
+public import qqmlscriptstring;
+public import qqmlpropertymap;
+public import qtqmlversion;
+#endif

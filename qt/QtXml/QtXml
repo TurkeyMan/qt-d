@@ -1,0 +1,8 @@
+#ifndef QT_QTXML_MODULE_H
+#define QT_QTXML_MODULE_H
+#include <QtXml/QtXmlDepends>
+import qtxmlglobal;
+import qdom;
+import qxml;
+import qtxmlversion;
+#endif

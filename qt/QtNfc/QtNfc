@@ -1,0 +1,17 @@
+#ifndef QT_QTNFC_MODULE_H
+#define QT_QTNFC_MODULE_H
+#include <QtNfc/QtNfcDepends>
+import qndeffilter;
+import qndefmessage;
+import qndefnfcsmartposterrecord;
+import qndefnfctextrecord;
+import qndefnfcurirecord;
+import qndefrecord;
+import qnearfieldmanager;
+import qnearfieldsharemanager;
+import qnearfieldsharetarget;
+import qnearfieldtarget;
+import qnfcglobal;
+import qqmlndefrecord;
+import qtnfcversion;
+#endif

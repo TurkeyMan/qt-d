@@ -1,0 +1,20 @@
+#ifndef QT_QTPOSITIONING_MODULE_H
+#define QT_QTPOSITIONING_MODULE_H
+#include <QtPositioning/QtPositioningDepends>
+import qgeoaddress;
+import qgeoareamonitorinfo;
+import qgeoareamonitorsource;
+import qgeocircle;
+import qgeocoordinate;
+import qgeolocation;
+import qgeopositioninfo;
+import qgeopositioninfosource;
+import qgeopositioninfosourcefactory;
+import qgeorectangle;
+import qgeosatelliteinfo;
+import qgeosatelliteinfosource;
+import qgeoshape;
+import qnmeapositioninfosource;
+import qpositioningglobal;
+import qtpositioningversion;
+#endif

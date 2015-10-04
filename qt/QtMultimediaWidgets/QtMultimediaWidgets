@@ -1,0 +1,10 @@
+#ifndef QT_QTMULTIMEDIAWIDGETS_MODULE_H
+#define QT_QTMULTIMEDIAWIDGETS_MODULE_H
+#include <QtMultimediaWidgets/QtMultimediaWidgetsDepends>
+import qcameraviewfinder;
+import qgraphicsvideoitem;
+import qtmultimediawidgetdefs;
+import qvideowidget;
+import qvideowidgetcontrol;
+import qtmultimediawidgetsversion;
+#endif

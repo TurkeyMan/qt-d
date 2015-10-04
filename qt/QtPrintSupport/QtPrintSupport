@@ -1,0 +1,14 @@
+#ifndef QT_QTPRINTSUPPORT_MODULE_H
+#define QT_QTPRINTSUPPORT_MODULE_H
+#include <QtPrintSupport/QtPrintSupportDepends>
+import qabstractprintdialog;
+import qpagesetupdialog;
+import qprintdialog;
+import qprintpreviewdialog;
+import qprintengine;
+import qprinter;
+import qprinterinfo;
+import qtprintsupportglobal;
+import qprintpreviewwidget;
+import qtprintsupportversion;
+#endif

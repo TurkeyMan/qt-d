@@ -1,0 +1,19 @@
+#ifndef QT_QTSCRIPT_MODULE_H
+#define QT_QTSCRIPT_MODULE_H
+#include <QtScript/QtScriptDepends>
+import qscriptable;
+import qscriptclass;
+import qscriptclasspropertyiterator;
+import qscriptcontext;
+import qscriptcontextinfo;
+import qscriptengine;
+import qscriptengineagent;
+import qscriptextensioninterface;
+import qscriptextensionplugin;
+import qscriptprogram;
+import qscriptstring;
+import qscriptvalue;
+import qscriptvalueiterator;
+import qtscriptglobal;
+import qtscriptversion;
+#endif

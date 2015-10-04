@@ -1,0 +1,10 @@
+#ifndef QT_QTSERIALPORT_MODULE_H
+#define QT_QTSERIALPORT_MODULE_H
+#include <QtSerialPort/QtSerialPortDepends>
+import qserialport;
+import qserialportglobal;
+import qserialportinfo;
+import qlockfile;
+import qwineventnotifier;
+import qtserialportversion;
+#endif
